@@ -5,7 +5,7 @@
 	<groupId>com.thinknyx</groupId>
 	<artifactId>my-webapp</artifactId>
 	<packaging>war</packaging>
-	<version>${version}</version>
+	<version>1.5</version>
 	<name>my-webapp Maven Webapp</name>
  
 	<description>A demo for deployment to the Central Repository via OSSRH using Bitbucket Pipeline</description>
