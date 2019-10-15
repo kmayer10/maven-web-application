@@ -1,2 +1,2 @@
 language: java
-script: bash udeploy-integration.sh
+#script: bash udeploy-integration.sh
